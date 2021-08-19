@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb3e35a8-2727-4131-a366-637b49ace091" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/MeuMapaApp-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeuMapaApp-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeuMapaApp-master/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeuMapaApp-master/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeuMapaApp-master/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeuMapaApp-master/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeuMapaApp-master/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeuMapaApp-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeuMapaApp-master/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeuMapaApp-master/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeuMapaApp-master/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeuMapaApp-master/app/src/androidTest/java/br/com/etecia/meumapaapp/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeuMapaApp-master/app/src/debug/res/values/google_maps_api.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeuMapaApp-master/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeuMapaApp-master/app/src/main/java/br/com/etecia/meumapaapp/MapsActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeuMapaApp-master/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeuMapaApp-master/app/src/main/res/drawable/bus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeuMapaApp-master/app/src/main/res/drawable/car.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeuMapaApp-master/app/src/main/res/drawable/escola.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeuMapaApp-master/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeuMapaApp-master/app/src/main/res/drawable/school.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeuMapaApp-master/app/src/main/res/layout/activity_maps.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeuMapaApp-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeuMapaApp-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeuMapaApp-master/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeuMapaApp-master/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeuMapaApp-master/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeuMapaApp-master/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeuMapaApp-master/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeuMapaApp-master/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeuMapaApp-master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeuMapaApp-master/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeuMapaApp-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeuMapaApp-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeuMapaApp-master/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeuMapaApp-master/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeuMapaApp-master/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeuMapaApp-master/app/src/release/res/values/google_maps_api.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeuMapaApp-master/app/src/test/java/br/com/etecia/meumapaapp/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeuMapaApp-master/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeuMapaApp-master/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeuMapaApp-master/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeuMapaApp-master/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeuMapaApp-master/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeuMapaApp-master/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeuMapaApp-master/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1wxfbuyvOEgllzygcJAI9Afrrax" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb3e35a8-2727-4131-a366-637b49ace091" name="Default Changelist" comment="" />
+      <created>1629405236311</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629405236311</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="174" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1629405725969">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="174" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860/1440.-255.900.1400@0.0.1440.860" timestamp="1629405725969" />
+    <state x="120" y="120" width="1200" height="620" key="AVDManager" timestamp="1629406054745">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="120" y="120" width="1200" height="620" key="AVDManager/0.0.1440.860/1440.-255.900.1400@0.0.1440.860" timestamp="1629406054745" />
+    <state x="567" y="328" key="Github.ShareDialog" timestamp="1629405895564">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="567" y="328" key="Github.ShareDialog/0.0.1440.860/1440.-255.900.1400@0.0.1440.860" timestamp="1629405895564" />
+    <state x="450" y="135" key="Github.UntrackedFilesDialog" timestamp="1629405908742">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="450" y="135" key="Github.UntrackedFilesDialog/0.0.1440.860/1440.-255.900.1400@0.0.1440.860" timestamp="1629405908742" />
+    <state x="130" y="9" key="SettingsEditor" timestamp="1629405733876">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="130" y="9" key="SettingsEditor/0.0.1440.860/1440.-255.900.1400@0.0.1440.860" timestamp="1629405733876" />
+    <state x="370" y="197" key="run.anything.popup" timestamp="1629405686655">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="370" y="197" key="run.anything.popup/0.0.1440.860/1440.-255.900.1400@0.0.1440.860" timestamp="1629405686655" />
+  </component>
+</project>
